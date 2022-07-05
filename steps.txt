@@ -1,0 +1,9 @@
+steps:
+
+//body:
+# class = 'overflow-x-hidden' >>> so that the other image will not bring a scroll bar
+//<nav>:
+# class='container relative mx-auto py-6' >>> mx-auto to put things in the middle
+   //div to contain a logo  and menu 
+   class = 'flex align-center justify-between space-x-20 py-6'
+      
